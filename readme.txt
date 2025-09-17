@@ -10,15 +10,17 @@ Instrucciones de instalación:
 
 1. Crear la carpeta para el script:
    - Recomiendo guardar los archivos en:
-     C:\Users\<tu_usuario>\Documents\WindowsPowerShell\Scripts\Riz Cleaner
+     C:\Users\<tu_usuario>\Documents\Scripts\Riz Cleaner
    
 2. Guardar el repositorio:
    - Dentro de la carpeta creada, localiza el archivo original del repositorio llamado `Riz Cleaner.bat`.
    - Cambia su extensión de `.bat` a `.txt` temporalmente para poder editarlo.
 
 3. Configurar el directorio:
-   - Abre el archivo `.txt` con el Bloc de notas.
-   - Modifica ambas líneas donde se indica el directorio de limpieza para que apunten a la ruta correcta de tu PC.
+   - Localiza en archivo Script_Cleaner.ps1 y haz click con el botón derecho del ratón.
+   - Selecciona la opción "copiar como ruta de acceso".
+   - Abre el archivo `Riz Cleaner.txt` con el Bloc de notas.
+   - Pega la ruta de acceso en ambas líneas donde se indica el directorio para que apunten a la ruta correcta de tu PC.
    - Guarda los cambios y vuelve a cambiar la extensión de `.txt` a `.bat`.
 
 4. Crear el "ejecutable" accesible:
@@ -32,4 +34,5 @@ Instrucciones de instalación:
 
 6. Listo!
    - Ahora puedes ejecutar Riz Cleaner desde tu escritorio haciendo doble clic en el acceso directo con tu icono personalizado.
+
 
